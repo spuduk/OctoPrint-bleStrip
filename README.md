@@ -1,5 +1,7 @@
 # OctoPrint-bleStrip
 
+## NOT CURRENTLY WORKING ##
+
 **TODO:** Test, Fix and repeat.
 
 ## Setup
